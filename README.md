@@ -1,2 +1,2 @@
 # BinaryPrimary
-Creata a binary visualisation tool
+A binary visualisation tool.
